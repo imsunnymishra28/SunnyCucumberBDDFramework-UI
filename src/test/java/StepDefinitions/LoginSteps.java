@@ -1,23 +1,10 @@
 package StepDefinitions;
 
 import PageObject.BaseClass;
-import com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter;
-import io.cucumber.java.*;
 import io.cucumber.java.en.*;
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
 import org.junit.Assert;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
-
-import java.io.IOException;
 
 public class LoginSteps extends BaseClass {
-//    @Before
-//    public void setup() throws Exception {
-//        initializeBrowser();
-//
-//    }
 
     @Given("User Launch the chrome browser")
     public void user_launch_the_chrome_browser() {
@@ -138,23 +125,6 @@ public class LoginSteps extends BaseClass {
         }
 
     }
-
-//    @After
-//    public void tearDown() {
-//        if (driver != null) {
-//            driver.quit();
-//        }
-//    }
-//
-//    @AfterStep
-//    public void addScreenshot(Scenario scenario) throws IOException {
-//        if (scenario.isFailed()) {
-//
-//
-//            final byte[] screenshot = ((TakesScreenshot) driver).getScreenshotAs(OutputType.BYTES);
-//            scenario.attach(screenshot, "image/png", scenario.getName());
-//        }
-//    }
 
 //    @BeforeStep
 //    public void beforeStepDemo(){

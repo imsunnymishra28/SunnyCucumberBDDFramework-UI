@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="false">
+
+    <!-- You can define multiple test groups here -->
+    <test name="Test">
+        <classes>
+            <!-- Add your TestNG test classes here -->
+            <class name="StepDefinitions.TestRunner" />
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,291 @@
+2025-08-04 20:45:50,961 INFO P.BaseClass [main] user launch chrome browser
+2025-08-04 20:45:53,489 INFO P.BaseClass [main] Navigating to login page...
+2025-08-04 20:57:06,598 INFO P.BaseClass [main] user launch chrome browser
+2025-08-04 20:57:18,879 INFO P.BaseClass [main] Navigating to login page...
+2025-08-04 20:57:21,264 INFO P.BaseClass [main] email and password entered
+2025-08-04 20:57:23,856 INFO P.BaseClass [main] login button clicked
+2025-08-04 20:57:23,861 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-04 20:57:24,494 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-04 20:57:31,714 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-06 09:53:09,397 INFO P.BaseClass [main] user launch chrome browser
+2025-08-06 09:53:12,423 INFO P.BaseClass [main] Navigating to login page...
+2025-08-06 09:53:12,916 INFO P.BaseClass [main] email and password entered
+2025-08-06 09:53:14,312 INFO P.BaseClass [main] login button clicked
+2025-08-06 09:53:14,316 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-06 09:53:14,729 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-06 09:53:17,215 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-09 11:03:16,465 INFO P.BaseClass [main] user launch chrome browser
+2025-08-09 11:03:20,939 INFO P.BaseClass [main] Navigating to login page...
+2025-08-09 11:03:22,108 INFO P.BaseClass [main] email and password entered
+2025-08-09 11:03:22,131 INFO P.BaseClass [main] login button clicked
+2025-08-09 11:03:22,134 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-09 11:03:24,776 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-09 11:03:27,546 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-09 11:22:38,230 INFO P.BaseClass [main] user launch chrome browser
+2025-08-09 11:22:43,376 INFO P.BaseClass [main] Navigating to login page...
+2025-08-09 11:22:43,852 INFO P.BaseClass [main] email and password entered
+2025-08-09 11:22:46,116 INFO P.BaseClass [main] login button clicked
+2025-08-09 11:22:46,118 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-09 11:22:46,725 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-09 11:22:48,327 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-09 11:23:34,386 INFO P.BaseClass [main] user launch chrome browser
+2025-08-09 11:23:39,873 INFO P.BaseClass [main] Navigating to login page...
+2025-08-09 11:23:41,504 INFO P.BaseClass [main] email and password entered
+2025-08-09 11:23:45,316 INFO P.BaseClass [main] login button clicked
+2025-08-09 11:23:45,322 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-09 11:23:45,389 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-09 11:23:46,421 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-09 11:24:48,227 INFO P.BaseClass [main] user launch chrome browser
+2025-08-09 11:24:52,176 INFO P.BaseClass [main] Navigating to login page...
+2025-08-09 11:24:52,762 INFO P.BaseClass [main] email and password entered
+2025-08-09 11:24:54,113 INFO P.BaseClass [main] login button clicked
+2025-08-09 11:24:54,116 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-09 11:24:54,532 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-09 11:24:57,258 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-09 11:25:29,997 INFO P.BaseClass [main] user launch chrome browser
+2025-08-09 11:25:34,142 INFO P.BaseClass [main] Navigating to login page...
+2025-08-09 11:25:34,960 INFO P.BaseClass [main] email and password entered
+2025-08-09 11:25:36,924 INFO P.BaseClass [main] login button clicked
+2025-08-09 11:25:36,927 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-09 11:25:37,423 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-09 11:25:39,105 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-09 11:28:22,312 INFO P.BaseClass [main] user launch chrome browser
+2025-08-09 11:28:25,990 INFO P.BaseClass [main] Navigating to login page...
+2025-08-09 11:28:26,493 INFO P.BaseClass [main] email and password entered
+2025-08-09 11:28:28,302 INFO P.BaseClass [main] login button clicked
+2025-08-09 11:28:28,306 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-09 11:28:28,608 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-09 11:28:32,750 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-09 11:28:59,494 INFO P.BaseClass [main] user launch chrome browser
+2025-08-09 11:29:03,658 INFO P.BaseClass [main] Navigating to login page...
+2025-08-09 11:29:04,184 INFO P.BaseClass [main] email and password entered
+2025-08-09 11:29:05,983 INFO P.BaseClass [main] login button clicked
+2025-08-09 11:29:05,987 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-09 11:29:06,438 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-09 11:29:08,066 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-10 12:46:38,105 INFO P.BaseClass [main] user launch chrome browser
+2025-08-10 12:46:42,650 INFO P.BaseClass [main] Navigating to login page...
+2025-08-10 12:46:43,147 INFO P.BaseClass [main] email and password entered
+2025-08-10 12:46:44,912 INFO P.BaseClass [main] login button clicked
+2025-08-10 12:46:44,916 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-10 12:46:45,221 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-10 12:46:46,608 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-10 13:22:35,342 INFO P.BaseClass [main] user launch chrome browser
+2025-08-10 13:22:39,928 INFO P.BaseClass [main] Navigating to login page...
+2025-08-10 13:22:40,799 INFO P.BaseClass [main] email and password entered
+2025-08-10 13:22:42,117 INFO P.BaseClass [main] login button clicked
+2025-08-10 13:22:42,121 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-10 13:22:42,569 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-10 13:22:45,730 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-10 13:36:49,331 INFO P.BaseClass [main] user launch chrome browser
+2025-08-10 13:36:52,732 INFO P.BaseClass [main] Navigating to login page...
+2025-08-10 13:36:53,267 INFO P.BaseClass [main] email and password entered
+2025-08-10 13:36:53,291 INFO P.BaseClass [main] login button clicked
+2025-08-10 13:36:54,656 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-10 13:36:55,140 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-10 13:36:57,238 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-10 13:36:58,416 INFO P.BaseClass [main] user launch chrome browser
+2025-08-10 13:37:01,872 INFO P.BaseClass [main] Navigating to login page...
+2025-08-10 13:37:02,404 INFO P.BaseClass [main] email and password entered
+2025-08-10 13:37:03,441 INFO P.BaseClass [main] login button clicked
+2025-08-10 13:37:03,445 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-10 14:08:30,615 INFO P.BaseClass [main] user launch chrome browser
+2025-08-10 14:08:35,644 INFO P.BaseClass [main] Navigating to login page...
+2025-08-10 14:08:36,174 INFO P.BaseClass [main] email and password entered
+2025-08-10 14:08:36,197 INFO P.BaseClass [main] login button clicked
+2025-08-10 14:08:36,199 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-10 14:08:38,474 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-10 14:08:41,956 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-10 16:40:45,634 INFO P.BaseClass [main] user launch chrome browser
+2025-08-10 16:40:52,288 INFO P.BaseClass [main] Navigating to login page...
+2025-08-10 16:40:54,359 INFO P.BaseClass [main] email and password entered
+2025-08-10 16:40:56,470 INFO P.BaseClass [main] login button clicked
+2025-08-10 16:40:56,474 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-10 16:40:56,880 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-10 16:40:59,230 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-10 16:48:55,495 INFO P.BaseClass [main] user launch chrome browser
+2025-08-10 16:49:00,451 INFO P.BaseClass [main] Navigating to login page...
+2025-08-10 16:49:01,018 INFO P.BaseClass [main] email and password entered
+2025-08-10 16:49:01,042 INFO P.BaseClass [main] login button clicked
+2025-08-10 16:49:02,409 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-10 16:49:02,927 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-10 16:49:05,666 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-11 09:48:39,876 INFO P.BaseClass [main] user launch chrome browser
+2025-08-11 09:48:46,645 INFO P.BaseClass [main] Navigating to login page...
+2025-08-11 09:48:48,123 INFO P.BaseClass [main] email and password entered
+2025-08-11 09:48:50,269 INFO P.BaseClass [main] login button clicked
+2025-08-11 09:48:50,277 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-11 09:48:50,755 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-11 09:48:55,886 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-11 09:56:34,342 INFO P.BaseClass [main] user launch chrome browser
+2025-08-11 09:56:38,446 INFO P.BaseClass [main] Navigating to login page...
+2025-08-11 09:56:39,266 INFO P.BaseClass [main] email and password entered
+2025-08-11 09:56:39,289 INFO P.BaseClass [main] login button clicked
+2025-08-11 09:56:45,613 INFO P.BaseClass [main] user launch chrome browser
+2025-08-11 09:56:46,946 INFO P.BaseClass [main] Navigating to login page...
+2025-08-11 09:56:51,231 INFO P.BaseClass [main] email and password entered
+2025-08-11 09:56:51,254 INFO P.BaseClass [main] login button clicked
+2025-08-11 09:56:57,380 INFO P.BaseClass [main] user launch chrome browser
+2025-08-11 09:57:00,715 INFO P.BaseClass [main] Navigating to login page...
+2025-08-11 09:57:01,293 INFO P.BaseClass [main] email and password entered
+2025-08-11 09:57:02,911 INFO P.BaseClass [main] login button clicked
+2025-08-11 09:57:02,915 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-11 09:57:03,358 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-11 09:57:05,861 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-11 09:57:07,026 INFO P.BaseClass [main] user launch chrome browser
+2025-08-11 09:57:10,997 INFO P.BaseClass [main] Navigating to login page...
+2025-08-11 09:57:11,795 INFO P.BaseClass [main] email and password entered
+2025-08-11 09:57:11,818 INFO P.BaseClass [main] login button clicked
+2025-08-11 09:57:11,820 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-11 09:57:13,812 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-11 09:57:16,364 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-11 09:57:17,533 INFO P.BaseClass [main] user launch chrome browser
+2025-08-11 09:57:18,876 INFO P.BaseClass [main] Navigating to login page...
+2025-08-11 09:57:21,652 INFO P.BaseClass [main] email and password entered
+2025-08-11 09:57:21,674 INFO P.BaseClass [main] login button clicked
+2025-08-11 09:57:22,933 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-11 10:13:15,556 INFO P.BaseClass [main] user launch chrome browser
+2025-08-11 10:13:17,134 INFO P.BaseClass [main] Navigating to login page...
+2025-08-11 10:18:44,659 INFO P.BaseClass [main] user launch chrome browser
+2025-08-11 10:19:05,579 INFO P.BaseClass [main] Navigating to login page...
+2025-08-11 10:20:21,522 INFO P.BaseClass [main] user launch chrome browser
+2025-08-11 10:20:26,432 INFO P.BaseClass [main] Navigating to login page...
+2025-08-11 10:20:27,337 INFO P.BaseClass [main] email and password entered
+2025-08-11 10:20:29,242 INFO P.BaseClass [main] login button clicked
+2025-08-11 10:20:29,251 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-11 10:20:29,693 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-11 10:20:32,974 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-11 10:25:14,241 INFO P.BaseClass [main] user launch chrome browser
+2025-08-11 10:25:17,921 INFO P.BaseClass [main] Navigating to login page...
+2025-08-11 10:25:18,569 INFO P.BaseClass [main] email and password entered
+2025-08-11 10:25:18,594 INFO P.BaseClass [main] login button clicked
+2025-08-11 10:25:18,598 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-11 10:25:20,404 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-11 10:25:23,162 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-11 10:30:19,255 INFO P.BaseClass [main] user launch chrome browser
+2025-08-11 10:30:28,901 INFO P.BaseClass [main] Navigating to login page...
+2025-08-11 10:53:31,837 INFO P.BaseClass [main] user launch chrome browser
+2025-08-11 10:53:36,226 INFO P.BaseClass [main] Navigating to login page...
+2025-08-11 10:53:37,409 INFO P.BaseClass [main] email and password entered
+2025-08-11 10:53:37,432 INFO P.BaseClass [main] login button clicked
+2025-08-11 10:53:38,723 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-11 10:53:39,166 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-11 10:53:41,273 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-11 19:11:42,933 INFO P.BaseClass [main] user launch chrome browser
+2025-08-11 19:11:44,318 INFO P.BaseClass [main] Navigating to login page...
+2025-08-11 19:11:46,899 INFO P.BaseClass [main] email and password entered
+2025-08-11 19:11:48,360 INFO P.BaseClass [main] login button clicked
+2025-08-11 19:11:48,366 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-11 19:11:48,806 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-11 19:11:50,855 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-11 19:12:28,414 INFO P.BaseClass [main] user launch chrome browser
+2025-08-11 19:12:32,992 INFO P.BaseClass [main] Navigating to login page...
+2025-08-11 19:12:33,564 INFO P.BaseClass [main] email and password entered
+2025-08-11 19:12:35,164 INFO P.BaseClass [main] login button clicked
+2025-08-11 19:12:35,168 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-11 19:12:35,605 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-11 19:12:37,589 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-13 18:30:34,481 INFO P.BaseClass [main] user launch chrome browser
+2025-08-13 18:30:36,342 INFO P.BaseClass [main] Navigating to login page...
+2025-08-13 18:30:39,320 INFO P.BaseClass [main] email and password entered
+2025-08-13 18:30:39,344 INFO P.BaseClass [main] login button clicked
+2025-08-13 18:30:40,691 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-13 18:30:41,169 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-13 18:30:43,681 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-13 18:30:44,937 INFO P.BaseClass [main] user launch chrome browser
+2025-08-13 18:30:46,254 INFO P.BaseClass [main] Navigating to login page...
+2025-08-13 18:30:49,122 INFO P.BaseClass [main] email and password entered
+2025-08-13 18:30:50,259 INFO P.BaseClass [main] login button clicked
+2025-08-13 18:30:50,264 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-13 18:37:27,714 INFO P.BaseClass [main] user launch chrome browser
+2025-08-13 18:37:29,010 INFO P.BaseClass [main] Navigating to login page...
+2025-08-13 18:37:31,696 INFO P.BaseClass [main] email and password entered
+2025-08-13 18:37:33,071 INFO P.BaseClass [main] login button clicked
+2025-08-13 18:37:33,076 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-13 18:37:33,703 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-13 18:37:35,799 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-13 18:37:36,963 INFO P.BaseClass [main] user launch chrome browser
+2025-08-13 18:37:38,286 INFO P.BaseClass [main] Navigating to login page...
+2025-08-13 18:37:43,188 INFO P.BaseClass [main] email and password entered
+2025-08-13 18:37:43,210 INFO P.BaseClass [main] login button clicked
+2025-08-13 18:37:44,171 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-13 18:40:46,667 INFO P.BaseClass [main] user launch chrome browser
+2025-08-13 18:40:48,125 INFO P.BaseClass [main] Navigating to login page...
+2025-08-13 18:40:50,401 INFO P.BaseClass [main] email and password entered
+2025-08-13 18:40:51,945 INFO P.BaseClass [main] login button clicked
+2025-08-13 18:40:51,951 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-13 18:40:52,405 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-13 18:40:54,714 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-13 18:40:55,915 INFO P.BaseClass [main] user launch chrome browser
+2025-08-13 18:40:57,153 INFO P.BaseClass [main] Navigating to login page...
+2025-08-13 18:41:00,902 INFO P.BaseClass [main] email and password entered
+2025-08-13 18:41:00,927 INFO P.BaseClass [main] login button clicked
+2025-08-13 18:41:00,929 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-13 18:44:02,429 INFO P.BaseClass [main] user launch chrome browser
+2025-08-13 18:44:07,084 INFO P.BaseClass [main] Navigating to login page...
+2025-08-13 18:44:07,598 INFO P.BaseClass [main] email and password entered
+2025-08-13 18:44:08,829 INFO P.BaseClass [main] login button clicked
+2025-08-13 18:44:08,833 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-13 18:45:44,646 INFO P.BaseClass [main] user launch chrome browser
+2025-08-13 18:45:48,264 INFO P.BaseClass [main] Navigating to login page...
+2025-08-13 18:45:48,768 INFO P.BaseClass [main] email and password entered
+2025-08-13 18:45:49,766 INFO P.BaseClass [main] login button clicked
+2025-08-13 18:45:49,770 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-13 18:54:10,251 INFO P.BaseClass [main] user launch chrome browser
+2025-08-13 18:54:11,575 INFO P.BaseClass [main] Navigating to login page...
+2025-08-13 18:54:13,999 INFO P.BaseClass [main] email and password entered
+2025-08-13 18:54:15,005 INFO P.BaseClass [main] login button clicked
+2025-08-13 18:54:15,011 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-13 18:56:36,440 INFO P.BaseClass [main] user launch chrome browser
+2025-08-13 18:56:40,106 INFO P.BaseClass [main] Navigating to login page...
+2025-08-13 18:56:40,730 INFO P.BaseClass [main] email and password entered
+2025-08-13 18:56:41,627 INFO P.BaseClass [main] login button clicked
+2025-08-13 18:56:41,632 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-13 19:08:48,223 INFO P.BaseClass [main] user launch chrome browser
+2025-08-13 19:08:52,922 INFO P.BaseClass [main] Navigating to login page...
+2025-08-13 19:08:54,232 INFO P.BaseClass [main] email and password entered
+2025-08-13 19:08:54,254 INFO P.BaseClass [main] login button clicked
+2025-08-13 19:08:54,258 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-15 12:55:29,401 INFO P.BaseClass [main] user launch chrome browser
+2025-08-15 12:55:32,951 INFO P.BaseClass [main] Navigating to login page...
+2025-08-15 12:55:33,520 INFO P.BaseClass [main] email and password entered
+2025-08-15 12:55:34,919 INFO P.BaseClass [main] login button clicked
+2025-08-15 12:55:34,924 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-15 12:55:35,374 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-15 12:55:38,301 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-15 13:02:59,707 INFO P.BaseClass [main] user launch chrome browser
+2025-08-15 13:03:33,742 INFO P.BaseClass [main] Navigating to login page...
+2025-08-15 13:06:28,164 INFO P.BaseClass [main] user launch chrome browser
+2025-08-15 13:06:52,241 INFO P.BaseClass [main] Navigating to login page...
+2025-08-15 13:24:15,393 INFO P.BaseClass [main] user launch chrome browser
+2025-08-15 13:24:41,721 INFO P.BaseClass [main] Navigating to login page...
+2025-08-15 13:27:31,128 INFO P.BaseClass [main] user launch chrome browser
+2025-08-15 13:27:57,701 INFO P.BaseClass [main] Navigating to login page...
+2025-08-15 13:30:46,189 INFO P.BaseClass [main] user launch chrome browser
+2025-08-15 13:31:11,047 INFO P.BaseClass [main] Navigating to login page...
+2025-08-15 13:46:02,353 INFO P.BaseClass [main] user launch chrome browser
+2025-08-15 13:46:05,983 INFO P.BaseClass [main] Navigating to login page...
+2025-08-15 13:46:06,519 INFO P.BaseClass [main] email and password entered
+2025-08-15 13:46:07,853 INFO P.BaseClass [main] login button clicked
+2025-08-15 13:46:07,858 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-15 13:46:08,305 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-15 13:46:10,497 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-15 13:54:19,245 INFO P.BaseClass [main] user launch chrome browser
+2025-08-15 13:54:23,052 INFO P.BaseClass [main] Navigating to login page...
+2025-08-15 13:54:23,878 INFO P.BaseClass [main] email and password entered
+2025-08-15 13:54:23,900 INFO P.BaseClass [main] login button clicked
+2025-08-15 13:54:25,265 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-15 13:54:25,705 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-15 13:54:28,134 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-15 13:56:25,296 INFO P.BaseClass [main] user launch chrome browser
+2025-08-15 13:56:31,705 INFO P.BaseClass [main] Navigating to login page...
+2025-08-15 13:56:32,871 INFO P.BaseClass [main] email and password entered
+2025-08-15 13:56:34,734 INFO P.BaseClass [main] login button clicked
+2025-08-15 13:56:34,738 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-15 13:56:35,154 INFO P.BaseClass [main] clicked on logout dropdown
+2025-08-15 13:56:37,882 WARN P.BaseClass [main] Test passed:page title matched
+2025-08-15 14:01:37,754 INFO P.BaseClass [main] user launch chrome browser
+2025-08-15 14:01:38,740 INFO P.BaseClass [main] Navigating to login page...
+2025-08-15 14:01:41,052 INFO P.BaseClass [main] email and password entered
+2025-08-15 14:01:42,069 INFO P.BaseClass [main] login button clicked
+2025-08-15 14:01:42,074 WARN P.BaseClass [main] Test passed:page title matched
